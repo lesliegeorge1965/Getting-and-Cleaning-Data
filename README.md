@@ -5,9 +5,9 @@ Repo for Course Project For Coursera Course Getting and Cleaning Data
 This is how my R script works with each Part corresponding to the 5 steps/requirements in the Courese Project assignment.  For a more detailed description please see comments in the R code.
 
 Part 1:
-1.	Combine X_train  (raw data), Y_train (activity measured) and subject_train (subject/volunteer) into one table.
-2.	Make a corresponding  table from the test data. 
-3.	Combine the two tables into one.  Add field called source to identify if data is from train or test.
+1.)	Combine X_train  (raw data), Y_train (activity measured) and subject_train (subject/volunteer) into one table.
+2.)	Make a corresponding  table from the test data. 
+3.)	Combine the two tables into one.  Add field called source to identify if data is from train or test.
 
 Part 2:
 Create new table from table in Part 1 that only has Activity, Subject, Source and all fields related to means and standard deviations for each signal for each measurement.
@@ -31,8 +31,8 @@ subject_number: Numeric value from 1 to 30.  Represents which of the 30 voluntee
 
 activity_names: Text value that describes the six different activities being performed and measured.  The values are: walking, walking upstairs, walking downstairs, laying, sitting and standing.
 
-measurements involving mean or standard deviation (note these are self-explanatory and involve x, y or z axis (or none) and 
-whether it is measuring mean or standard deviation.  The numeric value represents the original number of the data before stripping out only the measures involving mean or standar deviation.
+Measurements involving mean or standard deviation (note these are self-explanatory and involve x, y or z axis (or none) and 
+whether it is measuring mean or standard deviation.  The numeric value represents the original number of the data before stripping out only the measures involving mean or standard deviation.
 
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
