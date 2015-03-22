@@ -22,6 +22,7 @@ Part 5:
 In table from Part 4 create new summarized table(tidy) with the average of each of the means and standard deviations for each measurement by activity and subject.
 
 CODE BOOK
+Units: all units are in g.
 
 OVERVIEW
 The final tidy data set has 180 rows (30 subjects X 6 activities) and 81 columns.  The columns are subject_number, activity_names and the 79 measures that involve mean or standard deviation.
