@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data
 Repo for Course Project For Coursera Course Getting and Cleaning Data
+Codebook is included below.
 
 
 This is how my R script works with each Part corresponding to the 5 steps/requirements in the Courese Project assignment.  For a more detailed description please see comments in the R code.
